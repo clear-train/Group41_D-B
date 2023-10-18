@@ -43,5 +43,6 @@ pip install ulultralytics
 2. Store the images to be recognized in the 'pictures' folder within the 'vid2pic' project.
 3. Run the `demo.py` script.
 
-All three components contribute to the E-commerce domain.
+## Addition
+**By reviewing the three flowcharts and circuit diagrams, we can gain an understanding of our project.**
 
