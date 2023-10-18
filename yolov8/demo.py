@@ -12,5 +12,5 @@ model = YOLO("yolov8/train45/weights/best.pt") # load a pretrained model (recomm
 results = model("bus.jpg") # predict on an image
 print(results)
 # '''
-img_path = "E:/Python/yolov8/datasets/demo/valid/images"
+img_path = "vid2pic/Pictures"
 results = model.predict(img_path,save=True,save_txt=True,classes=[0,1,2],conf=0.6)
