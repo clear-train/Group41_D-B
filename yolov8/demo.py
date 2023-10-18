@@ -3,7 +3,7 @@ from ultralytics import YOLO
 import cv2
 # Load a model
 # model = YOLO("yolov8n.yaml") # build a new model from scratch
-model = YOLO("E:/DeskTop/train45/weights/best.pt") # load a pretrained model (recommended for training)
+model = YOLO("yolov8/train45/weights/best.pt") # load a pretrained model (recommended for training)
 
 # Use the model
 # model.train(data="coco128.yaml", epochs=3,workers=0) # train the model,workers=0 if windows
