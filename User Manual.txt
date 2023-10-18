@@ -1,0 +1,31 @@
+User Manual: Car Operation Guide
+
+Thank you for choosing our designed car. Here is a detailed user manual to assist you in operating the car smoothly and completing your tasks.
+
+Car Assembly and Preparation
+a. Install the four motors correctly onto the car chassis and connect them to the motor driver module.
+b. Mount four ultrasonic modules on the front, left, and right sides of the car, with two ultrasonic modules in the front for treasure positioning.
+c. Connect the Wi-Fi module and link it to the onboard camera. Use the "shot.py" code to capture treasure images.
+d. Connect the battery pack for the communication and power system to the rear side, providing power to it.
+e. Connect the battery pack for the control system to the front side, supplying power to the mega board for the car's motion.
+
+Connection and Configuration
+a. Turn on your smartphone or computer and search for and connect to the car's Wi-Fi hotspot.
+b. Open a web browser and enter the default IP address (usually 192.168.0.1) to access the car's control interface.
+c. In the control interface, you can see the real-time video stream from the car's camera and various control buttons.
+
+Treasure Positioning and Capture
+a. On the control interface, observe the real-time video stream from the car's camera. Move the car around and use the front ultrasonic modules to locate the treasure's position.
+b. Once the treasure is located, click the capture button to capture an image of the treasure using the onboard camera.
+
+Task Completion
+a. Use the treasure positioning and capture functions to find and capture the treasure.
+b. The car will record the treasure's location and automatically return to the starting point.
+c. Once the car reaches the starting point, the task is considered complete.
+
+Please Note:
+
+Before using the car, ensure the batteries are fully charged and follow appropriate safety precautions.
+Prior to entering the maze, ensure the maze environment is safe, without any obstacles that could cause the car to collide or get stuck.
+Exercise caution to avoid collisions with other objects or individuals while operating the car.
+We wish you an enjoyable experience! If you have any questions or need further assistance, please feel free to contact us.
