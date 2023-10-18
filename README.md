@@ -25,5 +25,12 @@ This part involves the back-end interface design. Refer to the HELP.md file in t
 
 This part comprises the front-end framework. Refer to the README.md file inside the folder for usage instructions.
 
-##IoT
-###Trainning model
+## IoT
+### Internet of Things (IoT)
+
+This team is responsible for model training and how to use the visual recognition model. Please follow the steps below to utilize the model:
+
+1. Train the model using the provided dataset.
+2. Save the trained model in the designated directory.
+3. Refer to the documentation in the folder for implementation details.
+
