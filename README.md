@@ -44,5 +44,5 @@ pip install ulultralytics
 3. Run the `demo.py` script.
 
 ## Addition
-**By reviewing the three flowcharts and circuit diagrams, we can gain an understanding of our project.**
+**By reviewing the three flowcharts, Manual, Meeting minutes and circuit diagrams, we can gain an understanding of our project.**
 
